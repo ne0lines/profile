@@ -12,7 +12,7 @@
   <a href="https://mcdonalds.com" target="_blank"><img alt="Occational McDonald's Eater" src="https://img.shields.io/badge/Occational%20McDonald's%20Eater-FF0000?labelColor=FF0000&logo=mcdonalds" /></a>
   <a href="https://redbull.com" target="_blank"><img alt="Intermittent Red Bull Drinker" src="https://img.shields.io/badge/Intermittent%20Red%20Bull%20Drinker-DB0A40?labelColor=DB0A40&logo=redbull" /></a>
   <a href="https://fiat.com" target="_blank"><img alt="Fiat Ducato RV Owner" src="https://img.shields.io/badge/Fiat%20Ducato%20RV%20Owner-941711?labelColor=941711&logo=fiat" /></a>
-  <a href="https://dji.com" target="_blank"><img alt="DJI Pilot" src="https://img.shields.io/badge/DJI%20Pilot-000?labelColor=000000&logo=dji" /></a>
+  <a href="https://www.dji.com" target="_blank"><img alt="DJI Pilot" src="https://img.shields.io/badge/DJI%20Pilot-000?labelColor=000000&logo=dji" /></a>
   
   <a href="https://counter-strike.net" target="_blank"><img alt="Counter-Strike Passionate" src="https://img.shields.io/badge/Counter--Strike%20Passionate-ff6900?labelColor=ff6900&logo=counterstrike&logoColor=FFF" /></a>
   <a href="https://faceit.com" target="_blank"><img alt="Faceit Player" src="https://img.shields.io/badge/Faceit%20Player-FF5500?labelColor=FF5500&logo=faceit&logoColor=FFFFFF" /></a>
@@ -21,7 +21,7 @@
   <a href="https://x.com" target="_blank"><img alt="X Dweller" src="https://img.shields.io/badge/X%20Dweller-000000?labelColor=000000&logo=x" /></a>
   <a href="https://facebook.com" target="_blank"><img alt="Facebook Original" src="https://img.shields.io/badge/Facebook%20Original-0866FF?labelColor=0866FF&logo=facebook" /></a>
   <a href="https://facebook.com" target="_blank"><img alt="Messenger Junkie" src="https://img.shields.io/badge/Messenger%20Junkie-0866FF?labelColor=0866FF&logo=messenger" /></a>
-  <a href="https://getchrome.com" target="_blank"><img alt="Google Chrome Veteran" src="https://img.shields.io/badge/Google%20Chrome%20Veteran-4285F4?labelColor=4285F4&logo=googlechrome&logoColor=FFFFFF" /></a>
+  <a href="https://www.google.com/chrome" target="_blank"><img alt="Google Chrome Veteran" src="https://img.shields.io/badge/Google%20Chrome%20Veteran-4285F4?labelColor=4285F4&logo=googlechrome&logoColor=FFFFFF" /></a>
   <a href="https://figma.com" target="_blank"><img alt="Figma Generalist" src="https://img.shields.io/badge/Figma%20Generalist-F24E1E?labelColor=F24E1E&logo=figma&logoColor=FFFFFF" /></a>
   <a href="https://darkreader.org" target="_blank"><img alt="Darkreader User" src="https://img.shields.io/badge/Darkreader%20User-141E24?labelColor=141E24&logo=darkreader" /></a>
   <a href="https://atlassian.net" target="_blank"><img alt="Jira Survivor" src="https://img.shields.io/badge/Jira%20Survivor-0052CC?labelColor=0052CC&logo=jira" /></a>
